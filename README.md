@@ -6,7 +6,7 @@
   <li><b>💼 Profession: </b> Software Engineer </a></li>
 </ul>
 <h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> I'm currently ...</h2>
-- 🔭 sorking on 9+ web applications end-to-end (gliding on horizontally🏄‍♂️ trying to dive in deeper🤿).
+- 🔭 working on 9+ web applications end-to-end (gliding on horizontally🏄‍♂️ trying to dive in deeper🤿).
 - 🌱 studying Data Structures & Algorithms.
 <!--
 - 📚 Reading: want to start... **""** 
