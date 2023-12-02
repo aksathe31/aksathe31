@@ -6,9 +6,14 @@
   <li><b>💼 Profession: </b> Software Engineer </a></li>
 </ul>
 <h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> I'm currently ...</h2>
-- 🔭 working on 9+ web applications end-to-end (gliding on horizontally🏄‍♂️ trying to dive in deeper🤿).
-- 🌱 studying Data Structures & Algorithms.
+  <li><b> 🔭 </b> At work, maintaining on 7+ web applications end-to-end (gliding on horizontally🏄‍♂️ trying to dive in deeper🤿). </li>
+  <li><b> 🌱 </b> Studying Data Structures & Algorithms. </li>
+
+
+
 <!--
+- 🔭 Working on 9+ web applications end-to-end (gliding on horizontally🏄‍♂️ trying to dive in deeper🤿).
+- 🌱 Studying Data Structures & Algorithms.
 - 📚 Reading: want to start... **""** 
 -->
 <!--
