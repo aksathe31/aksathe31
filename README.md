@@ -7,7 +7,7 @@
 </ul>
 <h2><!--<img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80">--> I'm currently ...</h2>
   <li><b> 🔭 </b> At work, maintaining on 7+ web applications end-to-end (gliding on horizontally🏄‍♂️ trying to dive in deeper🤿). </li>
-  <li><b> 🌱 </b> Studying Data Structures & Algorithms. </li>
+  <li><b> 🌱 </b> Trying build something of my own! </li>
 
 
 
